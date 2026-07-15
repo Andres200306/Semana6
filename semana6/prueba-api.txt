@@ -1,0 +1,7 @@
+El servidor responde con un JSON que confirma que los datos fueron recibidos. La respuesta es:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
